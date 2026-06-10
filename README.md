@@ -38,20 +38,19 @@ actionable insights to help the bank improve customer retention.
 
 ## Dashboard Preview
 ### Customer Overview
-![Customer Overview](Dashboard/Customer_Overview.png)
+![Customer Overview](Dashboard/Customer%20Overview.png)
 
 ### Churn Analysis
-![Churn Analysis](Dashboard/Churn_Analysis.png)
+![Churn Analysis](Dashboard/Churn%20Analysis.png)
 
 ### Risk Indicators
-![Risk Indicators](Dashboard/Risk_Indicators.png)
+![Risk Indicators](Dashboard/Risk%20Indicators.png)
 
 ## Repository Structure
-banking-churn-analysis/
-├── data/            # Raw dataset
-├── notebook/        # Jupyter Notebook analysis
-├── dashboard/       # Power BI file and screenshots
-└── README.md
+- `data/` — Raw dataset (BankChurners.csv)
+- `notebook/` — Jupyter Notebook Python analysis
+- `dashboard/` — Power BI dashboard file and screenshots
+- `README.md` — Project documentation
 
 ## Author
 **Zethembe Radebe**
